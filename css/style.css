@@ -93,11 +93,12 @@ padding: 50px}
 
 #italy {
     width:20px;
-    display: inline;
+    display: inline-block
 }
-.italian {display:inline}
+.italian {display: inline;}
+
 
 .icon { margin-top: 5px;
     width: 1px;
-    display: inline;
+    display:inline;
 }
