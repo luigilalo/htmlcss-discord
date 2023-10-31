@@ -79,7 +79,25 @@ text-align: center;
 
     .bgstars {background-image: url(../img/stars.svg);
         width: 100%;
-        height: 100px;
+        height: 70px;
         background-size: 100% 100%;
         background-repeat: no-repeat;
     }
+
+    .bg-footer { background-color: rgb(24, 17, 80); 
+    color: white;
+padding: 50px}
+
+    .leftcolumn {margin-left: 10px;
+    }
+
+#italy {
+    width:20px;
+    display: inline;
+}
+.italian {display:inline}
+
+.icon { margin-top: 5px;
+    width: 1px;
+    display: inline;
+}
